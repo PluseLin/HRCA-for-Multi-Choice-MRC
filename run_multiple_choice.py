@@ -67,10 +67,8 @@ MODEL_CLASSES = {
     'bert': (BertConfig, BertDUMAForMultipleChoice, BertTokenizer),
     'xlnet': (XLNetConfig, XLNetForMultipleChoice, XLNetTokenizer),
     'roberta': (RobertaConfig, RobertaForMultipleChoice, RobertaTokenizer),
-    #'albert': (AlbertConfig, AlbertDUMAForMultipleChoice, AlbertTokenizer)
     # 'albert':(AlbertConfig,AlbertHRCA,AlbertTokenizer)          #using HRCA
-    'albert':(AlbertConfig,AlbertHRCAPlus,AlbertTokenizer)          #using HRCA
-    # 'albert': (AlbertConfig, AlbertForMultipleChoice, AlbertTokenizer)
+    'albert':(AlbertConfig,AlbertHRCAPlus,AlbertTokenizer)          #using HRCA+
 }
 
 def select_field(features, field):
