@@ -41,5 +41,5 @@
 
 ## 5.Contact me
 
-* If you would like to contact me,please send email to 1951444@tongji.edu.cn.Both Chinese and English are OK.
+* If you would like to contact me,please send email to 1951444@tongji.edu.cn. Both Chinese and English are OK.
 * Please STAR this repo if you think it is helpful.Thanks.
