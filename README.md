@@ -37,7 +37,7 @@
     Model | acc of DREAM | learning rate | epoches| batch_size
     --- | --- | --- | ---| ---
     Albert_base+HRCA | 66.7 | 2e-5 | 3| 2
-    Albert_base+HRCA+ | 67.8| 1e-5| 3| 2
+    Albert_base+HRCA+ | 67.8| 8e-6| 3| 2
 
 ## 5.Contact me
 
